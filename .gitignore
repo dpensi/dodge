@@ -7,3 +7,6 @@ build/
 lib/
 git_api.gdnlib
 git_api.gdns
+*.translation
+export_presets.cfg
+.mono/
